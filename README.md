@@ -1,2 +1,2 @@
 # Репозиторий учебных проектов из Яндекс Практикум «Аналитик данных»
-## Projects by Practicum Yandex
+**Projects by Practicum Yandex**
