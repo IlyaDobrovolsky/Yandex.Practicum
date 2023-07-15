@@ -1,1 +1,1 @@
-# Yandex.Practicum
+# Yandex.Practicum Projects
